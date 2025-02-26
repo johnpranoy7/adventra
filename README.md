@@ -30,6 +30,14 @@ Develop and launch a functional prototype of Adventra that effectively connects 
 ### **Stakeholders**
 List the key stakeholders and their roles in the project.
 
+### **Tech Stack**
+Frontend - React.js / Express.js 
+Backend  - Node.js
+Database - Postgresql
+ORM      - Sequalize
+Host     - Cloudinary, AWS
+Misc     - Socket.io, 
+
 ---
 
 ## Initial Product Backlog
