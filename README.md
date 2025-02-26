@@ -31,12 +31,12 @@ Develop and launch a functional prototype of Adventra that effectively connects 
 List the key stakeholders and their roles in the project.
 
 ### **Tech Stack**
-Frontend - React.js / Express.js 
-Backend  - Node.js
-Database - Postgresql
-ORM      - Sequalize
-Host     - Cloudinary, AWS
-Misc     - Socket.io, 
+- Frontend - React.js / Express.js 
+- Backend  - Node.js
+- Database - Postgresql
+- ORM      - Sequalize
+- Host     - Cloudinary, AWS
+- Misc     - Socket.io, 
 
 ---
 
@@ -73,7 +73,7 @@ A Product Backlog Item (PBI) is considered "Ready" if it meets the following cri
 
 ## Sprint Planning Readiness
 We have estimated our PBIs using **story points**, starting from the top of the backlog to the bottom. The estimated backlog is stored in Jira/DevOps Azure and can be accessed via the following link:  
-**Backlog with Estimates:** Insert URL
+**Backlog with Estimates:** https://6733team2.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible&selectedIssue=SCRUM-3
 
 ---
 
