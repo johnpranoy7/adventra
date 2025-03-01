@@ -24,7 +24,7 @@ To streamline collaboration and project management, we use Atlassian tools for d
 ### Confluence ###
 [Team Roster](https://6733team2.atlassian.net/wiki/spaces/Adventra/pages/3375118/Adventra+Project+Vision+Document) | [PDF](ProjectDocuments/AdventraTeamRoles.pdf)
 
-[Product Vision](https://6733team2.atlassian.net/wiki/spaces/Adventra/pages/3375118/Adventra+Project+Vision+Document) | PDF
+[Product Vision](https://6733team2.atlassian.net/wiki/spaces/Adventra/pages/3375118/Adventra+Project+Vision+Document) | [PDF](ProjectDocuments/AdventraAdventraProjectVision.pdf)
 
 [Backlog Prioritization Criteria](https://6733team2.atlassian.net/wiki/spaces/Adventra/pages/3604909/Backlog+Prioritization+Criteria) | [PDF](ProjectDocuments/AdventraBacklogPrioritizationCriteria.pdf)
 
