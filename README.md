@@ -22,11 +22,13 @@ An online dating app designed for adventure seekers and nature lovers, connectin
 To streamline collaboration and project management, we use Atlassian tools for documentation and backlog tracking. Below are the relevant links:
 
 ### Confluence ###
-[Team Roster](https://6733team2.atlassian.net/wiki/spaces/Adventra/pages/3375118/Adventra+Project+Vision+Document) | [(PDF)]()
+[Team Roster](https://6733team2.atlassian.net/wiki/spaces/Adventra/pages/3375118/Adventra+Project+Vision+Document) | [PDF](ProjectDocuments/AdventraTeamRoles.pdf)
 
-[Product Vision](https://6733team2.atlassian.net/wiki/spaces/Adventra/pages/3375118/Adventra+Project+Vision+Document) | [(PDF)]()
+[Product Vision](https://6733team2.atlassian.net/wiki/spaces/Adventra/pages/3375118/Adventra+Project+Vision+Document) | PDF
 
-[Backlog Prioritization Criteria](https://6733team2.atlassian.net/wiki/spaces/Adventra/pages/3604909/Backlog+Prioritization+Criteria) | [(PDF)](ProjectDocuments/AdventraBacklogPrioritizationCriteria.pdf)
+[Backlog Prioritization Criteria](https://6733team2.atlassian.net/wiki/spaces/Adventra/pages/3604909/Backlog+Prioritization+Criteria) | [PDF](ProjectDocuments/AdventraBacklogPrioritizationCriteria.pdf)
+
+[Definition of Ready](https://6733team2.atlassian.net/wiki/spaces/Adventra/pages/3604899/Definition+of+Ready+Document) | PDF
 
 ### Jira ###
 [Adventra Backlog](https://6733team2.atlassian.net/jira/software/projects/ADVNTR/boards/1/backlog)
