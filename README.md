@@ -10,9 +10,9 @@ Outdoor app for adventure seekers.
 ### Team Roster
 | Name | Role |
 |------|------|
-| Christopher Wilder | Scrum Master |
-| Kirsten Huttar | Product Owner |
-| John Pranoy Yalla | Developer |
+| Kirsten Huttar | Scrum Master |
+| John Pranoy Yalla | Product Owner |
+| Christopher Wilder | Developer |
 | Louis Muhammad | Developer |
 | Prudhvi Prasad Samudrala | Developer |
 | Yaswitha Swarna | Tester |
