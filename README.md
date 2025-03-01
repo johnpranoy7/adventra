@@ -22,13 +22,26 @@ Outdoor app for adventure seekers.
 ## Product Vision
 
 ### **Far Vision**
-Adventra becomes the leading platform for adventure seekers worldwide, revolutionizing how people find like-minded partners for outdoor activities. The app incorporates AI-driven matching, predictive analytics for trip planning, and integrates with smart wearables to enhance safety and experience tracking. Over time, Adventra expands into a global adventure ecosystem, offering guided experiences, gear rentals, and partnerships with travel and outdoor brands.
-
+Adventra becomes the leading platform for adventure seekers worldwide, revolutionizing how people find like-minded 
+partners for outdoor activities. Many individuals struggle to connect with others who share their passion for adventure, 
+making it difficult to plan trips, find reliable companions, and ensure safety. Adventra solves this problem by offering 
+a seamless, user-friendly experience similar to dating apps—users can swipe left to pass, swipe right to connect, and chat 
+with potential adventure partners.  Don’t miss the opportunity to find like-minded people to embark on exciting adventures 
+like hiking, boating, rafting, sky diving, skiing, and more.
 ### **Near Vision**
-Develop and launch a functional prototype of Adventra that effectively connects users based on adventure preferences, skill levels, and geographic proximity. The initial release will include user profile creation, adventure-based matching, in-app messaging, and social media integration. The goal is to validate the core concept, gather user feedback, and iterate on features to improve engagement and usability.
+Develop and launch a functional prototype of Adventra that effectively connects users based on adventure preferences, skill 
+levels, and geographic proximity. The initial release will include user profile creation, adventure-based matching, in-app 
+messaging, and social media integration. The goal is to validate the core concept, gather user feedback, and iterate on features to improve engagement and usability.
 
 ### **Stakeholders**
-List the key stakeholders and their roles in the project.
+- New User
+- Existing User
+- Travel Providers
+- Developers
+- Product Managers
+- Marketing
+- VC
+- Business Development
 
 ### **Tech Stack**
 - Frontend - React.js / Express.js 
@@ -42,10 +55,10 @@ List the key stakeholders and their roles in the project.
 
 ## Initial Product Backlog
 The initial product backlog is stored in our online project management tool.  
-**Backlog URL:** Insert URL to Jira
+**Backlog URL:** https://6733team2.atlassian.net/jira/software/projects/ADVNTR/boards/1/backlog
 
 ### **Backlog Items (PBIs)**
-We have created at least **10 user stories** for our product backlog. These stories are structured as follows:
+We have created over **10 user stories** for our product backlog. These stories are structured as follows:
 - **Title:** Concise name of the backlog item
 - **User Story:** "As a user, I want to action, so that benefit."
 - **Additional Details:** Description of functionality, requirements, or acceptance criteria
