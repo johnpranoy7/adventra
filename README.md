@@ -48,12 +48,12 @@ To streamline collaboration and project management, we use Atlassian tools for d
 ---
 
 ## Contributors
-Christopher Wilder - https://github.com/Chris-Wilder
-Kirsten Huttar - https://github.com/codeandcrochet
-John Pranoy Yalla - https://github.com/johnpranoy7
-Louis Muhammad - https://github.com/lmuhammad1
-Prudhvi Prasad Samudrala - https://github.com/samudralaprudhvi
-Yaswitha Swarna - https://github.com/Yaswitha05
+- [Christopher Wilder](https://github.com/Chris-Wilder)
+- [Kirsten Huttar](https://github.com/codeandcrochet)
+- [John Pranoy Yalla](https://github.com/johnpranoy7)
+- [Louis Muhammad](https://github.com/lmuhammad1)
+- [Prudhvi Prasad Samudrala](https://github.com/samudralaprudhvi)
+- [Yaswitha Swarna](https://github.com/Yaswitha05)
 
 
 **Let's build something great together! 🚀**
