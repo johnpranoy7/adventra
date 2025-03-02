@@ -1,5 +1,5 @@
 # Adventra
-An online dating app designed for adventure seekers and nature lovers, connecting like-minded outdoor enthusiasts through activity-based matchmaking and shared adventure planning. Created as part of the SWE6733 course project.
+An online app designed for adventure seekers and nature lovers, connecting like-minded outdoor enthusiasts through activity-based matchmaking and shared adventure planning. Created as part of the SWE6733 course project.
 
 ## Team Information
 **Team Name:** Team 2  
@@ -28,15 +28,10 @@ To streamline collaboration and project management, we use Atlassian tools for d
 
 [Backlog Prioritization Criteria](https://6733team2.atlassian.net/wiki/spaces/Adventra/pages/3604909/Backlog+Prioritization+Criteria) | [PDF](ProjectDocuments/AdventraBacklogPrioritizationCriteria.pdf)
 
-[Definition of Ready](https://6733team2.atlassian.net/wiki/spaces/Adventra/pages/3604899/Definition+of+Ready+Document) | PDF
+[Definition of Ready](https://6733team2.atlassian.net/wiki/spaces/Adventra/pages/3604899/Definition+of+Ready+Document) | [PDF](ProjectDocuments/AdventraDefinitionofReadyDocument.pdf)
 
 ### Jira ###
-[Adventra Backlog](https://6733team2.atlassian.net/jira/software/projects/ADVNTR/boards/1/backlog)
-
-
-
-
- 
+[Adventra Backlog](https://6733team2.atlassian.net/jira/software/projects/ADVNTR/boards/1/backlog) 
 
 
 ---
