@@ -45,7 +45,7 @@ export default function Home() {
       {/* Hero Section */}
       <header className="absolute top-20 left-0 w-full text-center text-white px-6 z-30">
         <h1 className="text-4xl md:text-6xl font-bold drop-shadow-lg">
-          Meet Adventurers, <span className="text-yellow-400">Explore Together</span>
+          Meet Adventurers, <span className="text-yellow-400">Explore Together now</span>
         </h1>
         <p className="mt-4 text-lg md:text-xl text-gray-200">
           Find like-minded people to join you on your next adventure.
