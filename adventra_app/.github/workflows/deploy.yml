@@ -2,9 +2,9 @@ name: Deploy Next.js with Unit Tests
 
 on:
   push:
-    branches: [cicd-test]  # Replace with your default branch
+    branches: [main]  # Replace with your default branch
   pull_request:
-    branches: [cicd-test]  # Run tests on PRs
+    branches: [main]  # Run tests on PRs
 
 jobs:
   test:
