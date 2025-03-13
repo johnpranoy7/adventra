@@ -17,14 +17,18 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        working-directory: adventura_app
 
       - name: Start the application
         run: npm start &
         env:
           CI: true
+        working-directory: adventura_app
 
       - name: Wait for application to be ready
         run: npx wait-on http://localhost:3000
+        working-directory: adventura_app
 
       - name: Run Cypress tests
         run: npx cypress run
+        working-directory: adventura_app

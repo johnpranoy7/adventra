@@ -20,9 +20,11 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+        working-directory: adventura_app
 
       - name: Run unit tests
         run: npm test  # Adjust this command to match your test script
+        working-directory: adventura_app
 
   deploy:
     runs-on: ubuntu-latest
@@ -38,9 +40,11 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+        working-directory: adventura_app
 
       - name: Build project
         run: npm run build
+        working-directory: adventura_app
 
       - name: Deploy to Vercel
         uses: amondnet/vercel-action@v30
@@ -48,3 +52,4 @@ jobs:
           vercel-token: ${{ secrets.VERCEL_TOKEN }}
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+        working-directory: adventura_app
