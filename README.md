@@ -1,7 +1,8 @@
 # Adventra
 An online app designed for adventure seekers and nature lovers, connecting like-minded outdoor enthusiasts through activity-based matchmaking and shared adventure planning. Created as part of the SWE6733 course project.
 
-Project Url: https://adventra.vercel.app/
+## Project Deployment Url: https://adventra.vercel.app/
+**Vercel Dashboard: https://vercel.com/johnpranoy7s-projects/adventra
 
 ## Team Information
 **Team Name:** Team 2  
