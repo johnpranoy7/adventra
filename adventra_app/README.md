@@ -71,7 +71,9 @@ Your app will be available at **[http://localhost:3000](http://localhost:3000)**
 Tailwind is already configured. Use utility classes like:
 
 ```jsx
-<button className="bg-blue-500 text-white px-4 py-2 rounded-lg">Click Me</button>
+<button className="bg-blue-500 text-white px-4 py-2 rounded-lg">
+  Click Me
+</button>
 ```
 
 You can customize styles in **tailwind.config.js**.
@@ -86,6 +88,7 @@ You can customize styles in **tailwind.config.js**.
   npx prisma migrate dev --name update_schema
   ```
 - Use Prisma in your Next.js API routes:
+
   ```js
   import { PrismaClient } from '@prisma/client';
 
@@ -113,12 +116,12 @@ npm run test  # or yarn test
 Create a test file **Button.test.js** in the `__tests__` folder:
 
 ```js
-import { render, screen } from "@testing-library/react";
-import Button from "../components/Button";
+import { render, screen } from '@testing-library/react';
+import Button from '../components/Button';
 
-test("renders the button correctly", () => {
+test('renders the button correctly', () => {
   render(<Button label="Click Me" />);
-  expect(screen.getByText("Click Me")).toBeInTheDocument();
+  expect(screen.getByText('Click Me')).toBeInTheDocument();
 });
 ```
 
@@ -165,4 +168,3 @@ If you’d like to contribute to the project, please follow these steps:
 If you run into any issues, feel free to open an issue on GitHub or contact the team.
 
 Happy coding! 🎉
-
