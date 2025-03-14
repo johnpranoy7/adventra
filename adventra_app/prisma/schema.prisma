@@ -8,7 +8,15 @@ datasource db {
 }
 
 model User {
-  id    Int    @id @default(autoincrement())
-  name  String
+  id String @id @default(cuid())
   email String @unique
+  username String @unique
+  clerkId String @unique
+  name String?
+  bio String?
+  image String?
+  location String?
+  website String?
+  createdAt DateTime @default(now()) // member since 2020
+  updatedAt DateTime @updatedAt
 }
